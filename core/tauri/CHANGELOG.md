@@ -1,5 +1,15 @@
 # Changelog
 
+## \[2.0.0-beta.17]
+
+### New Features
+
+- [`12b4159bd`](https://www.github.com/tauri-apps/tauri/commit/12b4159bdaf6e1f8d7b58ed8ff96345fa69c2ef0)([#9392](https://www.github.com/tauri-apps/tauri/pull/9392)) Add `specta` feature flag which adds `specta` support for `AppHandle`, `State`, `Window`, `Webview` and `WebviewWindow` types.
+
+### Bug Fixes
+
+- [`98101cb17`](https://www.github.com/tauri-apps/tauri/commit/98101cb17fe49f305a75fcb4267f82d89f7ac0c3)([#9561](https://www.github.com/tauri-apps/tauri/pull/9561)) Allow any headers on the IPC custom protocol.
+
 ## \[2.0.0-beta.16]
 
 ### New Features
